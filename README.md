@@ -26,3 +26,6 @@ Cuando ya se eliminó, la lista queda así:
 Con  la opción 5 guardamos los contactos en un archivo de texto y se termina de ejecutar el programa.
 ![image](https://github.com/user-attachments/assets/1a1c6a4a-f12b-4539-9522-d3a727ebe123)
 ![image](https://github.com/user-attachments/assets/92d70b22-21d4-4b6d-b320-153fda3057a5)
+
+
+Microsoft Planner: https://planner.cloud.microsoft/webui/plan/UqdK48BcpEifRLx-AZzTWWQADIFm/view/grid?tid=f94bf4d9-8097-4794-adf6-a5466ca28563
