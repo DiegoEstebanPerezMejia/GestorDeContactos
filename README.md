@@ -28,4 +28,6 @@ Con  la opción 5 guardamos los contactos en un archivo de texto y se termina de
 ![image](https://github.com/user-attachments/assets/92d70b22-21d4-4b6d-b320-153fda3057a5)
 
 
+Para poder emplear el código, entrar al archivo llamado "main.c" dentro de este repositorio, copiarlo y pegarlo en el sompilador de su preferencia.
+
 Microsoft Planner: https://planner.cloud.microsoft/webui/plan/UqdK48BcpEifRLx-AZzTWWQADIFm/view/grid?tid=f94bf4d9-8097-4794-adf6-a5466ca28563
